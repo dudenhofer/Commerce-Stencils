@@ -1,0 +1,10 @@
+This is a repo for Omnigraffle Stencils. This is particularly for Drupal Commerce (http://drupal.org/project/commerce) and anything related.
+
+Also see http://drupalcommerce.org
+
+To use these files as a repo so you don't have to continually copy them, you will need to create a symlink to your repository in this folder:
+/Users/USERNAME/Library/Application\ Support/The\ Omni\ Group/OmniGraffle/Stencils/
+
+Here is an example symlink that references the repo in the default "Sites" folder on a Mac. This would be typed after navigating through terminal to the location above.
+
+ln -s /Users/USERNAME/Sites/Commerce-Stencils
